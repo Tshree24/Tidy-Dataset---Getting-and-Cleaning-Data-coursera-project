@@ -2,7 +2,7 @@
 This is the submission for Peer-graded Assignment: Getting and Cleaning Data Course Project by Tanushree Shenwai.
 This contains the details for the files present in this repository for better understanding of peers for this project submission 
 
-###File name
+File names - 
 tidycodebook.md is a code book describing the variable names and dataset transformation performed during the course of this project.
 
 run_analysis.R performs the following steps:
